@@ -17,7 +17,7 @@ I enjoy building projects and continuously improving my skills.
   <img src="https://i.imgur.com/kH765zv.gif" width="400">
 </p>
 
-## 🛠️ My Tech Stack
+
 ## 🛠️ My Tech Stack
 
 <h4> 💻 Languages </h4>
