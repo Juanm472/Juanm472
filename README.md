@@ -13,7 +13,11 @@ I enjoy building projects and continuously improving my skills.
 - 💬 Talk to me about programming, mathematics, data, Lord Of The Rings or technology.
 
 ---
+<p align="center">
+  <img src="https://i.imgur.com/kH765zv.gif" width="400">
+</p>
 
+## 🛠️ My Tech Stack
 ## 🛠️ My Tech Stack
 
 <h4> 💻 Languages </h4>
